@@ -1,6 +1,6 @@
 # RGB-to-Infrared Image Translation using GANs
 
-A deep learning project that explores visible-to-infrared (RGB → thermal) image translation using three Generative Adversarial Network architectures: **Pix2Pix**(https://arxiv.org/abs/1611.07004), **InfraGAN**(https://www.sciencedirect.com/science/article/abs/pii/S0167865522000332), and **ClawGAN**(https://www.sciencedirect.com/science/article/abs/pii/S0957417421015785). The project includes full training notebooks, a modular inference application, and Docker support for deployment.
+A deep learning project that explores visible-to-infrared (RGB → thermal) image translation using three Generative Adversarial Network architectures: [**Pix2Pix**](https://arxiv.org/abs/1611.07004), [**InfraGAN**](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000332), and [**ClawGAN**](https://www.sciencedirect.com/science/article/abs/pii/S0957417421015785). The project includes full training notebooks, a modular inference application, and Docker support for deployment.
 
 > **Course Project** — Generative AI  
 
